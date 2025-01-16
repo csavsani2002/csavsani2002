@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csavsani2002
-- 👀 I’m interested in ... application development,web development
-- 🌱 I’m currently learning ... Payton
+- 👀 I’m interested in ... Flutter application development
+- 🌱 I’m currently learning ... Payton,android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
